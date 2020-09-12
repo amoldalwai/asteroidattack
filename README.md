@@ -17,7 +17,7 @@ A 2D JavaScript based Asteroid game inspired from multiple games such as Space s
 [Installing](#Installing)
 
 
-![Demonstartion Video](https://j.gifs.com/P7LQ12.gif)
+![Demonstartion Video](https://j.gifs.com/91WYY4.gif)
 
 
 ## Demo Link :point_right: [https://amoldalwai.github.io/asteroidattack/](https://amoldalwai.github.io/asteroidattack/)
@@ -27,16 +27,16 @@ A 2D JavaScript based Asteroid game inspired from multiple games such as Space s
 
 ## Features 
 
-1)Game comes with 3 difficulty settings.
-2)Each difficulty level has a different spaceship abilities and special weapons.
-3)Move your mouse to tackle asteroids and alien ships.
-4)Left Click of the mouse button shoots bullets which may destroy the asteroid completely or reduce the size of large asteroids.
-5)The special weapon bar when full will launch a special weapon to destroy alien ship as bullets don't destroy them.
-6)Right Click of the mouse button shoots special weapon which kills every asteroid or ship in its path but requires longer time to reload.
-7)Survival point are present on the top and increase over time 
-8)Stars appear for a limited amount of time and increase score by 1000 points.
-9)HP bar of the ship reduces with every hit of asteroid and an instant death with collision from aliens ship.
-10)Asteroid that you destroyed  is displayed at the end with a retry button.
+1)Game comes with 3 difficulty settings.\\
+2)Each difficulty level has a different spaceship abilities and special weapons.\\
+3)Move your mouse to tackle asteroids and alien ships.\\
+4)Left Click of the mouse button shoots bullets which may destroy the asteroid completely or reduce the size of large asteroids.\\
+5)The special weapon bar when full will launch a special weapon to destroy alien ship as bullets don't destroy them.\\
+6)Right Click of the mouse button shoots special weapon which kills every asteroid or ship in its path but requires longer time to reload.\\
+7)Survival point are present on the top and increase over time \\
+8)Stars appear for a limited amount of time and increase score by 1000 points.\\
+9)HP bar of the ship reduces with every hit of asteroid and an instant death with collision from aliens ship.\\
+10)Asteroid that you destroyed  is displayed at the end with a retry button.\\
 
 
 
@@ -44,8 +44,8 @@ A 2D JavaScript based Asteroid game inspired from multiple games such as Space s
 
 ## Youtube
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=JBxHfKrVjfM
-" target="_blank"><img src="http://img.youtube.com/vi/JBxHfKrVjfM/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xbLiOk_L_eM
+" target="_blank"><img src="http://img.youtube.com/vi/xbLiOk_L_eM/0.jpg" 
 alt="RoadFighter " width="240" height="180" border="10" /></a>
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/xbLiOk_L_eM?style=plastic)
@@ -56,10 +56,9 @@ alt="RoadFighter " width="240" height="180" border="10" /></a>
 ### Installing
 
 ```
-npm start
+run index.html in browser eg.Chrome
 ```
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+
 
 ![Badge](https://img.shields.io/badge/Made%20by-Amol%20Dalwai-red?style=for-the-badge)
 
