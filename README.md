@@ -17,7 +17,7 @@ A 2D JavaScript based Asteroid game inspired from multiple games such as Space s
 [Installing](#Installing)
 
 
-![Demo Video](https://j.gifs.com/91WYY4.gif)
+![Demo Video](https://j.gifs.com/JyBv2D.gif)
 
 ## Demo Link :point_right: [https://amoldalwai.github.io/asteroidattack/](https://amoldalwai.github.io/asteroidattack/)
 
