@@ -24,16 +24,16 @@ A 2D JavaScript based Asteroid game inspired from multiple games such as Space s
 
 ## Features 
 
-1)Game comes with 3 difficulty settings.<br>
-2)Each difficulty level has a different spaceship abilities and special weapons<br>
-3)Move your mouse to tackle asteroids and alien ships.<br>
-4)Left Click of the mouse button shoots bullets which may destroy the asteroid completely or reduce the size of large asteroids.<br>
-5)The special weapon bar when full will launch a special weapon to destroy alien ship as bullets don't destroy them.<br>
-6)Right Click of the mouse button shoots special weapon which kills every asteroid or ship in its path but requires longer time to reload.<br>
-7)Survival point are present on the top and increase over time <br>
-8)Stars appear for a limited amount of time and increase score by 1000 points.<br>
-9)HP bar of the ship reduces with every hit of asteroid and an instant death with collision from aliens ship.<br>
-10)Asteroid that you destroyed  is displayed at the end with a retry button<br>
+- [x] Game comes with 3 difficulty settings.<br>
+- [x] Each difficulty level has a different spaceship abilities and special weapons<br>
+- [x] Move your mouse to tackle asteroids and alien ships.<br>
+- [x] Left Click of the mouse button shoots bullets which may destroy the asteroid completely or reduce the size of large asteroids.<br>
+- [x] The special weapon bar when full will launch a special weapon to destroy alien ship as bullets don't destroy them.<br>
+- [x] Right Click of the mouse button shoots special weapon which kills every asteroid or ship in its path but requires longer time to reload.<br>
+- [x] Survival point are present on the top and increase over time <br>
+- [x] Stars appear for a limited amount of time and increase score by 1000 points.<br>
+- [x] HP bar of the ship reduces with every hit of asteroid and an instant death with collision from aliens ship.<br>
+- [x] Asteroid that you destroyed  is displayed at the end with a retry button<br>
 
 
 
